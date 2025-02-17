@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Crowne Plaza",
+        "location": "Torreon",
+        "rooms_available": 15
+    },
+    {
+        "id": 2,
+        "name": "Hampton Inn",
+        "location": "Saltillo",
+        "rooms_available": 10
+    }
+]
